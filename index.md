@@ -1,5 +1,3 @@
-# **Rizaldi Chandra Wijaya**
----
 #### **rizaldiwijaya13@gmail.com** |  **+1 4315885160** | **linkedin.com/in/rizaldiw** | **github.com/Rizaldiw13** |
 
 ## <u> Education </u>
