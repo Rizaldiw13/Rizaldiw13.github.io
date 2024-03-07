@@ -1,4 +1,4 @@
-# Host your Resume 
+# Host Your Resume 
 ---
 Follow the steps below to host your own resume online. We will use host your resume on a static site generator using Github Pages.
 
@@ -15,8 +15,7 @@ Follow the steps below to host your own resume online. We will use host your res
 	+ Update your files and compare the changes you made easily
 - A Markdown text editor
 	+ Download and install your preferred text editor to create your resume
-	+ Here are some notable text editors: **Ghostwriter**, **Visual Studio Code**, and **Notepad**
-	+ 
+	+ Here are some notable text editors: **Ghostwriter**, **Visual Studio Code**, and **Notepad** 
 
 ## <u> Instructions </u>
 
