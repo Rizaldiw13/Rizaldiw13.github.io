@@ -1,5 +1,5 @@
 # Host Your Resume Online
----
+
 Follow the steps below to host your own resume online. We will use host your resume using a static site generator on Github Pages.
 
 [Demo](Rizaldiw13.github.io)
@@ -67,16 +67,24 @@ Andrew Etter explains the importance of using version control system to manage o
 2. Click on the summary text box on the bottom left and type a short description of what we did
 	+ For example: 'Created Resume in ghostwriter'
 3. Click on `Commit to main` and wait for the process to finish
-4. Click on 'Push to Origin'
+4. Click on 'Push origin'
 
+Now your resume should be built and published in Github.
 
 ## <u> More Resources </u>
-
++ To learn more about Markdown, visit [Markdown Tutorial](https://www.markdowntutorial.com/)
++ If you wish to change the look of your resume, check out [Jekyll Themes](http://jekyllthemes.org/themes/slate/) and [Github Supported Themes](https://pages.github.com/themes/) for more themes
 
 ## <u> Authors and Acknowledgements </u>
-
++ tsusdere for their [Slate Jekyll theme](https://github.com/pages-themes/slate) 
++ AJ Manigque and Safran Bin Kader for peer reviewing this readme and resume.
 
 ## <u> Frequently Asked Questions </u>
 
-- ### Why is Markdown better than a word processor?
-- ### Why is my resume not showing up?
+### Why is Markdown better than a word processor?
+
+Markdown is simple to use and easy to learn because it uses plain text formatting syntax. Users can focus more on writing their content instead of spending more time on formatting. Moreover, markdown files are also highly portable and compatible across different platforms, applications, devices. This means that users can edit their files on any device/app that support text files.
+
+### How do i change my theme?
+
+Visit [Jekyll Themes](http://jekyllthemes.org/themes/slate/) and [Github Supported Themes](https://pages.github.com/themes/) to choose your desired themes. To change your theme, copy the link of your chosen theme and open Github Desktop. Repeat step 6 to step 8 in the "Edit Your Resume" section. In step 8, replace the current link in the `remote_theme: ` with the link of your chosen theme. Follow the steps in the "Uploading and Publishing Your Resume" section to change 
