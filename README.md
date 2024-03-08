@@ -1,6 +1,6 @@
 # Host Your Resume Online
 
-Follow the steps below to host your own resume online. We will use host your resume using a static site generator on Github Pages.
+Follow the steps below to host your own resume online. We will host your resume using a static site generator on Github Pages.
 
 [Demo](Rizaldiw13.github.io)
 
@@ -8,7 +8,7 @@ Follow the steps below to host your own resume online. We will use host your res
 
 ### **Prerequisites**
 
-#### You will need a couple of things before we start
+You will need a couple of things before we start
 - A Github account
 	+ If you dont have a Github account, navigate to [Github](https://github.com/) and create a new account.
 - [Github Desktop](https://desktop.github.com/)
