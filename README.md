@@ -9,16 +9,15 @@ Follow the steps below to host your own resume online. We will use host your res
 ### **Prerequisites**
 
 #### You will need a couple of things before we start
-- A Github account.
-	+ If you dont have a Github account, navigate to github and create a new account.
-- Download Github Desktop.
+- A Github account
+	+ If you dont have a Github account, navigate to [Github](https://github.com/) and create a new account.
+- [Github Desktop](https://desktop.github.com/)
 	+ Github Desktop will help you update your files and compare the changes you made easily.
-- A Markdown text editor.
-	+ Download and install your preferred text editor to create your resume.
-	+ Here are my recommendations: **Ghostwriter**, **Visual Studio Code**, and **Notepad** .
+- [Ghostwriter](https://ghostwriter.kde.org/)
+    + A markdown text editor
 
 ## <u> Instructions </u>
-### Step 1: Setting Up The Github repository
+### Step 1: Setting Up The Github Repository
 
 In his book, Andrew Etter encourages us to publish our writing on a website instead of a PDF. When publishing our writing on a PDF, the PDF will eventually be outdated and we need to create another PDF file to update our writing. However, when we publish our writing on a website, we don't need to create a new website to update its content. We can just continuously make the necessary changes on that same website and keep its content up to date.
 
