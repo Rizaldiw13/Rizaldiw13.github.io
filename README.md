@@ -2,7 +2,7 @@
 
 Follow the steps below to host your own resume online. We will host your resume using a static site generator on Github Pages.
 
-[Demo](Rizaldiw13.github.io)
+[Demo](https://rizaldiw13.github.io/)
 
 ![Demo](https://github.com/Rizaldiw13/Rizaldiw13.github.io/blob/main/app/resume%20demo.gif)
 
@@ -35,7 +35,7 @@ Moreover, for anyone who wants to view our writing, we can give them a link to o
 	+ Click **Create Fork**
 5. Click the **Settings** button at the top of the page
 6. Select **Pages** on the left sidebar
-7. Under Build and Deployment, select `Deploy from branch` for source and select `main` for branch.
+7. Select `Deploy from branch` for source and select `main` for branch under `Build and Deployment`
 8. Click **Save** once you are done and your repository are now all set-up.
 
 ### Step 2: Edit Your Resume
@@ -50,10 +50,10 @@ Andrew Etter explains that using lightweight markup languages allows users to qu
 5. Click on `clone`
 6. Select `Repository` on the top left
 7. Select `Show in Explorer`. This will bring you to the file directory of your resume. 
-8. In this file directory, right click on `_config.yml` and select `Open with` and choose `Notepad`.
+8. Right click on `_config.yml` in that file directory,  and select `Open with` and choose `Notepad`.
 	+ Edit the `title: ` and `description: ` so that it matches your resume
 	+ Save the file once you are done
-9. Now, in the same file directory, right click on `index.md`, select `Open with` and choose `ghostwriter`
+9. Right click on `index.md`in the same file directory. Select `Open with` and choose `ghostwriter`
 	+ As you may have noticed, your screen will be split into two. The left side of the screen is where you will write out your resume and the right side of the screen is the preview of your resume
 	+ Write out the content of your resumes in this markdown file
 	+ Save the file once you are done
