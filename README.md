@@ -2,7 +2,7 @@
 ---
 Follow the steps below to host your own resume online. We will use host your resume using a static site generator on Github Pages.
 
-[Demo](https://github.com/Rizaldiw13/Rizaldiw13.github.io)
+[Demo](Rizaldiw13.github.io)
 
 ## <u> Getting started </u>
 
