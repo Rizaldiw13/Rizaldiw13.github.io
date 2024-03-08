@@ -1,5 +1,7 @@
 # Host Your Resume Online
 
+## <u> Purpose </u>
+
 Follow the steps below to host your own resume online. We will host your resume using a static site generator on Github Pages.
 
 [Demo of The Website](https://rizaldiw13.github.io/)
